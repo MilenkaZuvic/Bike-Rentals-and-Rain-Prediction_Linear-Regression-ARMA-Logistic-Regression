@@ -26,5 +26,5 @@ El proyecto busca:
 * Milenka Zuvic
 * Michelle Vergara
 * Macarena Geraldo
-* Francisco Ortega
+* Francisco Ortega - [Kaggle](https://www.kaggle.com/macarenageraldoz)
 * Carlos Quezada - [GitHub](https://github.com/ciquezada)
