@@ -1,5 +1,5 @@
 # Bike Rentals and Rain Predicition, Linear Regression, ARMA and Logistic Regression.
-# Predicción de Arriendos de Bicicletas y Pronóstico Meteorológico.
+# Predicción de Arriendos de Bicicletas y Predicción Meteorológica.
 
 **Proyecto del Diplomado en Data Science de la Pontificia Universidad Católica de Chile**
 
